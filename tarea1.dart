@@ -41,7 +41,7 @@ class Circulo extends StatelessWidget {
           transform: Matrix4.rotationZ(0.75),
           ),
           CircleAvatar (backgroundColor: Colors.lightGreen, maxRadius: 150,foregroundColor: Colors.blue,
-          child: Text('Equipo 6: \n --Huerta Gomez Carlos Emiliano-- \n --Perez Rizada Jose Santiago-- \n --Campos Gonzales Diana-- \n --Julian Luis Juan Carlos--',
+          child: Text('Equipo 6: \n -- America Abigail Lomeli Xicotencat--\n --Huerta Gomez Carlos Emiliano-- \n --Perez Rizada Jose Santiago-- \n --Campos Gonzales Diana-- \n --Julian Luis Juan Carlos--',
           style: TextStyle( color: Colors.white, fontSize: 18),),
           ),
       ],
